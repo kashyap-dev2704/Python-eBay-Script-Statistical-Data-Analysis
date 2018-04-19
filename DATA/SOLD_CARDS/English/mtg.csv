@@ -1,0 +1,5 @@
+Id,NameOfCard,Edition,NoOfSearchResult,eBayHigh,eBayMedian,eBayLow,eBayAverage,Type
+10,Aladdin,Arabian Nights,10,249.99,37.5,8,71,Normal
+11,Aladdin's Lamp,Arabian Nights,12,289.99,30.55,10.5,81.84,Normal
+12,Aladdin's Ring,Arabian Nights,11,139.99,20.67,11.88,44.78,Normal
+10,Aladdin,Arabian Nights,10,500,37.5,8,71,Foil

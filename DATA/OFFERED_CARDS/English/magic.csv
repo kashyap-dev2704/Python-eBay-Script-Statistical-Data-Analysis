@@ -1,0 +1,814 @@
+Id,NameOfCard,Edition,NoOfSearchResult,eBayHigh,eBayMedian,eBayLow,eBayAverage,Type
+[1],Air Elemental,Alpha,2,19.99,19.49,18.99,19.49,Normal
+[2],Ancestral Recall,Alpha,4,3926.91,3580.41,3118.41,3551.53,Normal
+[3],Animate Artifact,Alpha,2,299.99,199.98,99.97,199.98,Normal
+[5],Air Elemental,Beta,1,14.95,14.95,14.95,14.95,Normal
+[6],Ancestral Recall,Beta,4,75000.0,2843.7,2587.11,20818.63,Normal
+[7],Animate Artifact,Beta,3,7.49,6.84,4.69,6.34,Normal
+[8],Animate Dead,Beta,2,149.99,115.0,80.0,115.0,Normal
+[10],Aladdin,Arabian Nights,9,60.99,10.0,7.0,19.02,Normal
+[11],Aladdin's Lamp,Arabian Nights,3,35.99,12.0,10.0,19.33,Normal
+[12],Aladdin's Ring,Arabian Nights,2,35.99,26.99,17.99,26.99,Normal
+[13],Air Elemental,Unlimited,2,1.39,1.39,1.39,1.39,Normal
+[13],Air Elemental,Unlimited Edition,1,1.39,1.39,1.39,1.39,Normal
+[14],Ancestral Recall,Unlimited,6,1998.99,1694.99,1478.31,1698.92,Normal
+[15],Animate Artifact,Unlimited,1,0.99,0.99,0.99,0.99,Normal
+[16],Animate Dead,Unlimited,2,12.99,9.79,6.59,9.79,Normal
+[26],Amulet of Kroog,Antiquities,6,2.49,0.48,0.25,0.74,Normal
+[27],Argivian Archaeologist,Antiquities,4,92.98,70.24,45.0,69.61,Normal
+[28],Argivian Blacksmith,Antiquities,7,3.99,0.49,0.25,1.06,Normal
+[29],Argothian Pixies,Antiquities,3,0.48,0.25,0.25,0.33,Normal
+[30],Air Elemental,Revised Edition,1,0.25,0.25,0.25,0.25,Normal
+[31],Aladdin's Lamp,Revised Edition,3,0.54,0.26,0.25,0.35,Normal
+[32],Aladdin's Ring,Revised Edition,2,0.54,0.4,0.25,0.4,Normal
+[34],Abomination,Legends,3,1.0,1.0,0.98,0.99,Normal
+[35],Acid Rain,Legends,1,40.35,40.35,40.35,40.35,Normal
+[36],Active Volcano,Legends,2,0.48,0.48,0.47,0.48,Normal
+[37],Adun Oakenshield,Legends,1,55.99,55.99,55.99,55.99,Normal
+[38],Amnesia,The Dark,2,1.2,1.09,0.99,1.09,Normal
+[39],Angry Mob,The Dark,5,1.39,1.23,0.67,1.1,Normal
+[40],Apprentice Wizard,The Dark,1,0.99,0.99,0.99,0.99,Normal
+[41],Ashes to Ashes,The Dark,3,2.49,0.48,0.25,1.07,Normal
+[42],Aeolipile,Fallen Empires,5,1.94,1.0,0.6,1.21,Normal
+[44],Sewers of Estark,Media Inserts,3,1.23,1.23,1.0,1.15,Normal
+[45],Nalathni Dragon,Media Inserts,1,1.25,1.25,1.25,1.25,Normal
+[47],Counterspell,Legend Membership,1,12.98,12.98,12.98,12.98,Normal
+[48],Incinerate,Legend Membership,2,3.43,3.43,3.43,3.43,Normal
+[52],Aladdin's Lamp,4th Edition,2,1.2,0.72,0.25,0.72,Normal
+[52],Aladdin's Lamp,Fourth Edition,3,5.99,1.2,0.25,2.48,Normal
+[53],Abyssal Specter,Ice Age,4,3.99,0.71,0.25,1.42,Normal
+[54],Adarkar Sentinel,Ice Age,1,9.19,9.19,9.19,9.19,Normal
+[55],Adarkar Unicorn,Ice Age,1,0.99,0.99,0.99,0.99,Normal
+[56],Adarkar Wastes,Ice Age,15,9.5,6.0,3.89,5.92,Normal
+[57],Abu Ja'far,Chronicles,4,1.95,0.48,0.25,0.79,Normal
+[58],Active Volcano,Chronicles,2,0.25,0.25,0.25,0.25,Normal
+[59],Akron Legionnaire,Chronicles,2,0.57,0.41,0.25,0.41,Normal
+[60],Aladdin,Chronicles,3,0.99,0.3,0.25,0.51,Normal
+[61],Abbey Gargoyles,Homelands,1,0.33,0.33,0.33,0.33,Normal
+[70],Aku Djinn,Visions,6,1.65,0.52,0.36,0.71,Normal
+[71],Anvil of Bogardan,Visions,15,16.93,12.49,1.04,12.24,Normal
+[72],Archangel,Visions,7,3.1,1.0,0.25,1.28,Normal
+[73],Army Ants,Visions,3,1.0,0.99,0.73,0.91,Normal
+[75],Abyssal Specter,5th Edition,1,0.25,0.25,0.25,0.25,Normal
+[75],Abyssal Specter,Fifth Edition,1,0.25,0.25,0.25,0.25,Normal
+[76],Adarkar Wastes,5th Edition,13,8.99,5.99,3.35,6.26,Normal
+[76],Adarkar Wastes,Fifth Edition,15,8.99,5.93,3.0,5.96,Normal
+[81],Alabaster Dragon,Portal,4,2.95,2.27,1.58,2.27,Normal
+[82],Alluring Scent,Portal,4,1.58,0.99,0.97,1.13,Normal
+[87],Abduction,Weatherlight,4,1.45,0.74,0.25,0.79,Normal
+[88],Abeyance,Weatherlight,7,9.99,3.6,2.73,4.63,Normal
+[89],Abjure,Weatherlight,5,2.49,0.45,0.25,0.78,Normal
+[90],Aboroth,Weatherlight,4,3.49,1.21,0.31,1.56,Normal
+[95],Abandon Hope,Tempest,2,0.51,0.38,0.25,0.38,Normal
+[97],Aftershock,Tempest,1,0.25,0.25,0.25,0.25,Normal
+[98],Altar of Dementia,Tempest,8,4.0,3.43,2.49,3.37,Normal
+[99],Abyssal Nightstalker,Portal Second Age,1,0.48,0.48,0.48,0.48,Normal
+[100],Air Elemental,Portal Second Age,1,2.75,2.75,2.75,2.75,Normal
+[107],Allay,Exodus,2,0.33,0.29,0.25,0.29,Normal
+[109],Cataclysm,Exodus,11,8.0,5.35,2.98,5.12,Normal
+[110],Charging Paladin,Exodus,1,0.25,0.25,0.25,0.25,Normal
+[111],Charm School,Unglued,3,2.5,1.39,0.25,1.38,Normal
+[112],The Cheese Stands Alone,Unglued,2,1.98,1.98,1.98,1.98,Normal
+[113],Double Dip,Unglued,4,1.39,0.89,0.25,0.85,Normal
+[114],Get a Life,Unglued,2,1.39,0.82,0.25,0.82,Normal
+[119],Absolute Grace,Urza's Saga,4,2.25,0.83,0.43,1.08,Normal
+[120],Absolute Law,Urza's Saga,3,1.0,0.99,0.68,0.89,Normal
+[121],Angelic Chorus,Urza's Saga,8,7.99,4.63,3.99,5.18,Normal
+[122],Angelic Page,Urza's Saga,3,1.69,0.33,0.25,0.76,Normal
+[123],Angelic Curator,Urza's Legacy,1,2.98,2.98,2.98,2.98,Foil
+[123],Angelic Curator,Urza's Legacy,1,0.38,0.38,0.38,0.38,Normal
+[124],Blessed Reversal,Urza's Legacy,1,2.48,2.48,2.48,2.48,Foil
+[124],Blessed Reversal,Urza's Legacy,4,0.71,0.33,0.25,0.4,Normal
+[125],Burst of Energy,Urza's Legacy,2,1.0,0.99,0.98,0.99,Foil
+[126],Cessation,Urza's Legacy,4,0.47,0.3,0.25,0.33,Normal
+[127],Animate Wall,6th Edition,2,0.33,0.29,0.25,0.29,Normal
+[128],Archangel,6th Edition,7,1.67,1.42,0.99,1.33,Normal
+[129],Ardent Militia,6th Edition,1,1.95,1.95,1.95,1.95,Normal
+[130],Armageddon,6th Edition,6,5.34,4.93,2.49,4.49,Normal
+[130],Armageddon,Classic Sixth Edition,1,2.0,2.0,2.0,2.0,Normal
+[134],False Defeat,Portal 3K,1,7.65,7.65,7.65,7.65,Normal
+[134],False Defeat,Portal Three Kingdoms,1,7.65,7.65,7.65,7.65,Normal
+[135],Academy Rector,Urza's Destiny,3,399.98,349.93,99.94,283.28,Foil
+[135],Academy Rector,Urza's Destiny,15,100.0,50.0,1.2,50.19,Normal
+[136],Archery Training,Urza's Destiny,1,0.25,0.25,0.25,0.25,Normal
+[137],Capashen Knight,Urza's Destiny,2,1.0,0.81,0.62,0.81,Foil
+[138],Capashen Standard,Urza's Destiny,1,0.45,0.45,0.45,0.45,Normal
+[139],Angel of Light,Starter 1999,5,7.57,4.98,4.38,5.8,Normal
+[140],Angel of Mercy,Starter 1999,3,29.99,1.0,0.73,10.57,Normal
+[141],Angelic Blessing,Starter 1999,2,0.37,0.31,0.25,0.31,Normal
+[142],Archangel,Starter 1999,6,7.58,2.01,1.79,2.93,Normal
+[145],Mountain,Guru,1,4.99,4.99,4.99,4.99,Normal
+[146],Plains,Guru,1,4.99,4.99,4.99,4.99,Normal
+[147],Balduvian Horde,Worlds,2,2.98,2.98,2.98,2.98,Foil
+[148],Serra Angel,Wizards of the Coast Online Store,2,127.72,79.83,31.93,79.83,Foil
+[149],Afterlife,Mercadian Masques,4,4.55,2.49,2.48,3.0,Foil
+[149],Afterlife,Mercadian Masques,3,0.37,0.37,0.25,0.33,Normal
+[150],Alabaster Wall,Mercadian Masques,2,1.94,1.94,1.94,1.94,Foil
+[150],Alabaster Wall,Mercadian Masques,1,4.95,4.95,4.95,4.95,Normal
+[151],Armistice,Mercadian Masques,5,2.5,0.57,0.25,0.96,Normal
+[152],Arrest,Mercadian Masques,2,1.49,1.38,1.26,1.38,Foil
+[152],Arrest,Mercadian Masques,1,0.25,0.25,0.25,0.25,Normal
+[157],Thran Quarry,Super Series,1,8.99,8.99,8.99,8.99,Foil
+[158],Serra Avatar,Super Series,1,14.93,14.93,14.93,14.93,Foil
+[160],Crusade,Super Series,1,7.35,7.35,7.35,7.35,Foil
+[161],River Boa,Friday Night Magic,1,7.99,7.99,7.99,7.99,Foil
+[163],Longbow Archer,Friday Night Magic,2,2.48,2.48,2.48,2.48,Foil
+[169],Angelic Favor,Nemesis,2,0.33,0.29,0.25,0.29,Normal
+[169],Angelic Favor,Nemesis,1,1.0,1.0,1.0,1.0,Foil
+[170],Avenger en-Dal,Nemesis,4,0.99,0.71,0.25,0.67,Normal
+[171],Blinding Angel,Nemesis,4,2.25,2.06,1.66,2.01,Normal
+[172],Chieftain en-Dal,Nemesis,1,0.99,0.99,0.99,0.99,Normal
+[175],Abolish,Prophecy,2,3.86,3.72,3.58,3.72,Foil
+[175],Abolish,Prophecy,5,1.79,0.51,0.35,0.75,Normal
+[176],Aura Fracture,Prophecy,2,7.0,4.62,2.25,4.62,Normal
+[177],Avatar of Hope,Prophecy,7,1.55,0.99,0.58,0.99,Normal
+[177],Avatar of Hope,Prophecy,1,1.79,1.79,1.79,1.79,Foil
+[178],Blessed Wind,Prophecy,4,2.85,0.83,0.25,1.19,Normal
+[178],Blessed Wind,Prophecy,2,1.48,1.27,1.06,1.27,Foil
+[180],Blizzard Elemental,Beatdown,1,0.57,0.57,0.57,0.57,Normal
+[181],Brainstorm,Beatdown,1,1.12,1.12,1.12,1.12,Normal
+[181],Brainstorm,Beatdown Box Set,1,1.12,1.12,1.12,1.12,Normal
+[183],Alabaster Leech,Invasion,1,3.0,3.0,3.0,3.0,Foil
+[183],Alabaster Leech,Invasion,4,1.4,0.53,0.25,0.68,Normal
+[184],Angel of Mercy,Invasion,1,2.95,2.95,2.95,2.95,Foil
+[184],Angel of Mercy,Invasion,2,0.37,0.31,0.25,0.31,Normal
+[185],Ardent Soldier,Invasion,2,0.25,0.25,0.25,0.25,Normal
+[186],"Atalya, Samite Master",Invasion,8,1.99,0.99,0.58,1.14,Normal
+[187],Aura Blast,Planeshift,3,1.99,1.0,0.73,1.24,Foil
+[187],Aura Blast,Planeshift,1,0.25,0.25,0.25,0.25,Normal
+[190],Dominaria's Judgment,Planeshift,3,0.57,0.25,0.25,0.36,Normal
+[191],Angelic Page,7th Edition,1,4.93,4.93,4.93,4.93,Foil
+[191],Angelic Page,7th Edition,1,0.25,0.25,0.25,0.25,Normal
+[191],Angelic Page,Seventh Edition,1,4.93,4.93,4.93,4.93,Foil
+[191],Angelic Page,Seventh Edition,1,0.25,0.25,0.25,0.25,Normal
+[192],Ardent Militia,7th Edition,1,1.0,1.0,1.0,1.0,Foil
+[193],Blessed Reversal,7th Edition,1,6.43,6.43,6.43,6.43,Foil
+[193],Blessed Reversal,7th Edition,1,0.41,0.41,0.41,0.41,Normal
+[193],Blessed Reversal,Seventh Edition,1,0.41,0.41,0.41,0.41,Normal
+[194],Breath of Life,7th Edition,1,9.79,9.79,9.79,9.79,Foil
+[194],Breath of Life,Seventh Edition,1,7.19,7.19,7.19,7.19,Foil
+[195],Wasteland,Magic Player Rewards,1,205.35,205.35,205.35,205.35,Foil
+[196],Voidmage Prodigy,Magic Player Rewards,4,11.93,10.93,6.35,10.04,Normal
+[197],Powder Keg,Magic Player Rewards,2,2.98,2.98,2.98,2.98,Foil
+[198],Psychatog,Magic Player Rewards,2,4.93,4.93,4.93,4.93,Foil
+[199],Angelfire Crusader,Apocalypse,1,1.11,1.11,1.11,1.11,Normal
+[203],Aegis of Honor,Odyssey,10,2.18,1.6,0.99,1.58,Normal
+[204],Ancestral Tribute,Odyssey,2,0.57,0.41,0.25,0.41,Normal
+[204],Ancestral Tribute,Odyssey,3,1.34,1.19,1.0,1.18,Foil
+[205],Angelic Wall,Odyssey,1,0.25,0.25,0.25,0.25,Normal
+[205],Angelic Wall,Odyssey,1,1.0,1.0,1.0,1.0,Foil
+[206],Animal Boneyard,Odyssey,1,3.05,3.05,3.05,3.05,Foil
+[206],Animal Boneyard,Odyssey,2,0.37,0.31,0.25,0.31,Normal
+[207],Abyssal Specter,Deckmaster,1,1.0,1.0,1.0,1.0,Foil
+[207],Abyssal Specter,Deckmasters,1,0.45,0.45,0.45,0.45,Normal
+[210],Dark Ritual,Deckmasters,1,2.04,2.04,2.04,2.04,Normal
+[211],Angel of Retribution,Torment,3,6.98,5.12,4.21,5.44,Foil
+[211],Angel of Retribution,Torment,4,1.0,0.81,0.48,0.77,Normal
+[212],Aven Trooper,Torment,1,1.04,1.04,1.04,1.04,Normal
+[213],Cleansing Meditation,Torment,1,6.0,6.0,6.0,6.0,Foil
+[213],Cleansing Meditation,Torment,2,1.0,0.8,0.6,0.8,Normal
+[215],Ancestor's Chosen,Judgment,2,1.0,0.92,0.83,0.92,Foil
+[215],Ancestor's Chosen,Judgment,2,0.37,0.31,0.25,0.31,Normal
+[217],Battle Screech,Judgment,4,5.0,4.46,2.29,4.05,Normal
+[219],Akroma's Blessing,Onslaught,2,0.47,0.36,0.25,0.36,Normal
+[219],Akroma's Blessing,Onslaught,1,1.73,1.73,1.73,1.73,Foil
+[220],Akroma's Vengeance,Onslaught,1,9.2,9.2,9.2,9.2,Foil
+[220],Akroma's Vengeance,Onslaught,4,2.0,0.99,0.99,1.24,Normal
+[221],Ancestor's Prophet,Onslaught,3,1.95,0.34,0.25,0.84,Normal
+[221],Ancestor's Prophet,Onslaught,1,1.19,1.19,1.19,1.19,Foil
+[222],Astral Slide,Onslaught,4,1.0,0.68,0.51,0.72,Normal
+[222],Astral Slide,Onslaught,1,1.04,1.04,1.04,1.04,Foil
+[223],"Akroma, Angel of Wrath",Legions,2,26.98,25.3,23.61,25.3,Foil
+[223],"Akroma, Angel of Wrath",Legions,7,12.87,5.38,3.13,6.16,Normal
+[224],Akroma's Devoted,Legions,4,0.99,0.37,0.25,0.49,Normal
+[225],Aven Redeemer,Legions,2,0.49,0.48,0.47,0.48,Normal
+[225],Aven Redeemer,Legions,1,1.75,1.75,1.75,1.75,Foil
+[227],Ageless Sentinels,Scourge,3,0.57,0.48,0.25,0.43,Normal
+[227],Ageless Sentinels,Scourge,2,1.49,1.25,1.0,1.25,Foil
+[228],Astral Steel,Scourge,1,0.25,0.25,0.25,0.25,Normal
+[229],Aven Farseer,Scourge,1,0.75,0.75,0.75,0.75,Normal
+[230],Aven Liberator,Scourge,2,0.29,0.27,0.25,0.27,Normal
+[235],Angel of Mercy,8th Edition,1,3.81,3.81,3.81,3.81,Foil
+[235],Angel of Mercy,8th Edition,2,0.99,0.62,0.25,0.62,Normal
+[235],Angel of Mercy,Eighth Edition,2,0.99,0.62,0.25,0.62,Normal
+[236],Angelic Page,8th Edition,1,0.25,0.25,0.25,0.25,Normal
+[236],Angelic Page,8th Edition,1,1.0,1.0,1.0,1.0,Foil
+[236],Angelic Page,Eighth Edition,1,0.25,0.25,0.25,0.25,Normal
+[237],Ardent Militia,8th Edition,1,2.29,2.29,2.29,2.29,Normal
+[237],Ardent Militia,8th Edition,1,1.0,1.0,1.0,1.0,Foil
+[238],Avatar of Hope,8th Edition,2,4.75,3.66,2.57,3.66,Foil
+[238],Avatar of Hope,8th Edition,4,1.0,0.92,0.35,0.8,Normal
+[238],Avatar of Hope,Eighth Edition,3,1.0,0.85,0.35,0.74,Normal
+[239],Altar's Light,Mirrodin,2,1.0,0.86,0.73,0.86,Foil
+[239],Altar's Light,Mirrodin,1,0.37,0.37,0.37,0.37,Normal
+[240],Arrest,Mirrodin,6,2.75,0.32,0.25,0.71,Normal
+[241],Auriok Bladewarden,Mirrodin,1,0.37,0.37,0.37,0.37,Normal
+[242],Auriok Steelshaper,Mirrodin,8,3.15,1.75,1.1,1.88,Normal
+[242],Auriok Steelshaper,Mirrodin,1,4.73,4.73,4.73,4.73,Foil
+[243],Auriok Glaivemaster,Darksteel,3,6.5,0.31,0.25,2.35,Normal
+[245],Emissary of Hope,Darksteel,1,3.95,3.95,3.95,3.95,Foil
+[245],Emissary of Hope,Darksteel,1,0.37,0.37,0.37,0.37,Normal
+[246],Hallow,Darksteel,1,4.49,4.49,4.49,4.49,Foil
+[246],Hallow,Darksteel,1,2.9,2.9,2.9,2.9,Normal
+[249],Auriok Champion,Fifth Dawn,5,89.93,37.13,24.99,44.69,Foil
+[249],Auriok Champion,Fifth Dawn,10,19.79,15.5,10.39,15.51,Normal
+[250],Auriok Salvagers,Fifth Dawn,1,5.0,5.0,5.0,5.0,Foil
+[250],Auriok Salvagers,Fifth Dawn,1,0.25,0.25,0.25,0.25,Normal
+[253],Rhonas's Stalwart,Hour of Devastation,2,2.69,1.54,0.4,1.54,Foil
+[253],Rhonas's Stalwart,Hour of Devastation,2,0.4,0.4,0.4,0.4,Normal
+[254],Cage of Hands,Champions of Kamigawa,2,1.0,0.99,0.98,0.99,Foil
+[254],Cage of Hands,Champions of Kamigawa,2,3.5,1.88,0.25,1.88,Normal
+[255],Atinlay Igpay,Unhinged,3,0.99,0.47,0.25,0.57,Normal
+[256],AWOL,Unhinged,2,7.57,7.33,7.08,7.33,Foil
+[256],AWOL,Unhinged,5,2.06,0.57,0.48,0.92,Normal
+[257],Bosom Buddy,Unhinged,1,0.25,0.25,0.25,0.25,Normal
+[258],Cardpecker,Unhinged,4,0.99,0.68,0.25,0.65,Normal
+[259],Day of Destiny,Betrayers of Kamigawa,1,1.19,1.19,1.19,1.19,Normal
+[260],Empty-Shrine Kannushi,Betrayers of Kamigawa,2,0.25,0.25,0.25,0.25,Normal
+[262],Resolute Survivors,Hour of Devastation,2,1.49,0.99,0.5,0.99,Foil
+[262],Resolute Survivors,Hour of Devastation,5,0.47,0.4,0.25,0.38,Normal
+[263],Aether Shockwave,Saviors of Kamigawa,1,0.66,0.66,0.66,0.66,Normal
+[264],Araba Mothrider,Saviors of Kamigawa,1,0.25,0.25,0.25,0.25,Normal
+[265],Celestial Kirin,Saviors of Kamigawa,6,1.0,0.94,0.57,0.88,Normal
+[266],Charge Across the Araba,Saviors of Kamigawa,2,1.59,0.92,0.25,0.92,Normal
+[267],Angel of Mercy,9th Edition,1,0.25,0.25,0.25,0.25,Normal
+[267],Angel of Mercy,Ninth Edition,1,0.25,0.25,0.25,0.25,Normal
+[268],Angelic Blessing,9th Edition,1,1.64,1.64,1.64,1.64,Foil
+[270],Aven Flock,9th Edition,2,9.99,6.25,2.5,6.25,Normal
+[271],Auratouched Mage,Ravnica,1,33.0,33.0,33.0,33.0,Normal
+[271],Auratouched Mage,Ravnica,3,1.89,1.0,0.93,1.27,Foil
+[271],Auratouched Mage,Ravnica: City of Guilds,1,33.0,33.0,33.0,33.0,Normal
+[271],Auratouched Mage,Ravnica: City of Guilds,2,1.0,0.97,0.93,0.97,Foil
+[272],Bathe in Light,Ravnica,2,1.0,0.8,0.6,0.8,Foil
+[272],Bathe in Light,Ravnica,2,0.42,0.33,0.25,0.33,Normal
+[272],Bathe in Light,Ravnica: City of Guilds,2,1.0,0.8,0.6,0.8,Foil
+[272],Bathe in Light,Ravnica: City of Guilds,1,0.25,0.25,0.25,0.25,Normal
+[274],Blazing Archon,Ravnica,9,3.13,1.9,1.59,2.16,Normal
+[274],Blazing Archon,Ravnica: City of Guilds,3,1.9,1.6,1.6,1.7,Normal
+[276],Wood Elves,Gateway,1,8.75,8.75,8.75,8.75,Foil
+[277],Icatian Javelineers,Gateway,3,2.99,1.0,0.98,1.66,Foil
+[278],Fiery Temper,Gateway,5,11.49,2.48,1.49,4.39,Foil
+[279],Boomerang,Gateway,2,4.43,3.71,2.99,3.71,Foil
+[281],Belfry Spirit,Guildpact,2,1.0,0.69,0.37,0.69,Normal
+[282],Benediction of Moons,Guildpact,1,1.95,1.95,1.95,1.95,Normal
+[289],Azorius Herald,Dissension,1,0.87,0.87,0.87,0.87,Normal
+[290],Beacon Hawk,Dissension,1,0.37,0.37,0.37,0.37,Normal
+[291],Blessing of the Nephilim,Dissension,3,2.73,2.73,1.59,2.35,Foil
+[291],Blessing of the Nephilim,Dissension,3,0.57,0.5,0.29,0.45,Normal
+[292],Adarkar Valkyrie,Coldsnap,1,12.99,12.99,12.99,12.99,Foil
+[292],Adarkar Valkyrie,Coldsnap,9,2.18,1.6,1.25,1.62,Normal
+[294],Cover of Winter,Coldsnap,3,0.57,0.48,0.25,0.43,Normal
+[295],"Darien, King of Kjeldor",Coldsnap,2,27.99,27.67,27.35,27.67,Foil
+[295],"Darien, King of Kjeldor",Coldsnap,4,9.19,6.25,2.25,5.98,Normal
+[300],Amrou Scout,Time Spiral,1,0.25,0.25,0.25,0.25,Normal
+[302],Angel's Grace,Time Spiral,4,22.74,20.66,19.99,21.02,Foil
+[302],Angel's Grace,Time Spiral,11,10.13,6.93,2.25,6.51,Normal
+[303],Benalish Cavalry,Time Spiral,2,0.62,0.56,0.5,0.56,Normal
+[304],"Akroma, Angel of Wrath","Time Spiral Timeshifted""""",3,4.99,4.93,4.93,4.95,Normal
+[304],"Akroma, Angel of Wrath","Time Spiral Timeshifted""""",1,14.98,14.98,14.98,14.98,Foil
+[304],"Akroma, Angel of Wrath",Timeshifted,7,6.88,4.99,4.25,5.22,Normal
+[304],"Akroma, Angel of Wrath",Timeshifted,2,14.98,14.43,13.88,14.43,Foil
+[305],Auratog,"Time Spiral Timeshifted""""",3,1.5,0.48,0.4,0.79,Normal
+[305],Auratog,Timeshifted,1,2.93,2.93,2.93,2.93,Foil
+[305],Auratog,Timeshifted,7,1.98,1.5,0.36,1.19,Normal
+[306],Celestial Dawn,"Time Spiral Timeshifted""""",3,2.4,1.43,1.43,1.75,Normal
+[306],Celestial Dawn,Timeshifted,1,6.99,6.99,6.99,6.99,Foil
+[306],Celestial Dawn,Timeshifted,4,2.4,1.43,0.99,1.56,Normal
+[307],Consecrate Land,"Time Spiral Timeshifted""""",1,0.25,0.25,0.25,0.25,Normal
+[307],Consecrate Land,Timeshifted,1,0.25,0.25,0.25,0.25,Normal
+[308],Fruitcake Elemental,Happy Holidays,1,84.99,84.99,84.99,84.99,Foil
+[309],Gifts Given,Happy Holidays,1,144.99,144.99,144.99,144.99,Foil
+[310],Evil Presents,Happy Holidays,2,69.93,67.46,64.99,67.46,Foil
+[311],Season's Beatings,Happy Holidays,1,43.99,43.99,43.99,43.99,Foil
+[312],Aven Riftwatcher,Planar Chaos,3,1.38,0.49,0.25,0.71,Normal
+[313],Benalish Commander,Planar Chaos,8,3.8,1.84,1.06,2.08,Normal
+[313],Benalish Commander,Planar Chaos,1,4.3,4.3,4.3,4.3,Foil
+[314],"Crovax, Ascendant Hero",Planar Chaos,3,8.39,7.95,5.99,7.44,Foil
+[314],"Crovax, Ascendant Hero",Planar Chaos,7,4.25,3.49,1.48,2.91,Normal
+[315],Dawn Charm,Planar Chaos,9,1.86,0.98,0.5,1.07,Normal
+[317],Mirari's Wake,Pro Tour,2,25.99,25.67,25.35,25.67,Foil
+[318],"Treva, the Renewer",Pro Tour,1,24.99,24.99,24.99,24.99,Foil
+[320],Spiritmonger,Grand Prix,1,7.93,7.93,7.93,7.93,Foil
+[320],Spiritmonger,Grand Prix Promos,1,7.93,7.93,7.93,7.93,Foil
+[321],Call of the Herd,Grand Prix,2,8.68,8.68,8.68,8.68,Foil
+[321],Call of the Herd,Grand Prix Promos,2,8.68,8.68,8.68,8.68,Foil
+[322],Chrome Mox,Grand Prix,2,59.99,42.67,25.35,42.67,Foil
+[322],Chrome Mox,Grand Prix Promos,1,25.35,25.35,25.35,25.35,Foil
+[323],Umezawa's Jitte,Grand Prix,3,40.99,29.93,28.99,33.3,Foil
+[323],Umezawa's Jitte,Grand Prix Promos,3,40.99,29.93,28.99,33.3,Foil
+[324],Angel of Salvation,Future Sight,1,4.47,4.47,4.47,4.47,Foil
+[324],Angel of Salvation,Future Sight,5,1.98,0.48,0.36,0.76,Normal
+[326],Barren Glory,Future Sight,2,3.99,3.99,3.98,3.99,Foil
+[326],Barren Glory,Future Sight,2,2.49,1.47,0.44,1.47,Normal
+[327],Chronomantic Escape,Future Sight,2,1.93,1.93,1.93,1.93,Foil
+[327],Chronomantic Escape,Future Sight,3,1.99,0.51,0.25,0.92,Normal
+[328],Ancestor's Chosen,10th Edition,2,0.37,0.31,0.25,0.31,Normal
+[328],Ancestor's Chosen,Tenth Edition,1,0.25,0.25,0.25,0.25,Normal
+[329],Angel of Mercy,10th Edition,2,4.04,4.02,3.99,4.02,Foil
+[329],Angel of Mercy,10th Edition,3,1.0,0.62,0.42,0.68,Normal
+[329],Angel of Mercy,Tenth Edition,2,1.0,0.81,0.62,0.81,Normal
+[330],Angelic Blessing,10th Edition,1,2.49,2.49,2.49,2.49,Foil
+[331],Angelic Chorus,10th Edition,1,27.59,27.59,27.59,27.59,Foil
+[331],Angelic Chorus,10th Edition,2,6.3,5.84,5.38,5.84,Normal
+[332],Reya Dawnbringer,Magic Game Day,2,2.98,2.98,2.98,2.98,Foil
+[333],Liliana's Specter,Magic Game Day,2,2.68,2.68,2.68,2.68,Normal
+[335],Memnite,Magic Game Day,3,6.91,6.47,6.28,6.55,Normal
+[340],Ajani Goldmane,Lorwyn,11,22.95,9.43,2.5,11.15,Normal
+[341],Arbiter of Knollridge,Lorwyn,3,1.49,1.32,1.32,1.38,Foil
+[341],Arbiter of Knollridge,Lorwyn,2,0.57,0.41,0.25,0.41,Normal
+[342],Austere Command,Lorwyn,4,31.04,28.2,24.96,28.1,Foil
+[342],Austere Command,Lorwyn,10,13.49,7.79,5.0,8.39,Normal
+[344],Ambush Commander,Duel Decks: Elves vs. Goblins,2,3.29,3.11,2.93,3.11,Foil
+[345],Allosaurus Rider,Duel Decks: Elves vs. Goblins,7,11.92,3.49,0.7,4.22,Normal
+[346],Elvish Eulogist,Duel Decks: Elves vs. Goblins,1,0.4,0.4,0.4,0.4,Normal
+[347],Elvish Harbinger,Duel Decks: Elves vs. Goblins,1,1.0,1.0,1.0,1.0,Normal
+[348],Earwig Squad,Launch Parties,2,1.0,0.81,0.61,0.81,Foil
+[349],Vexing Shusher,Launch Parties,1,7.43,7.43,7.43,7.43,Foil
+[350],Figure of Destiny,Launch Parties,2,3.73,3.73,3.73,3.73,Foil
+[352],Ballyrush Banneret,Morningtide,5,1.63,0.51,0.29,0.85,Normal
+[353],Battletide Alchemist,Morningtide,1,3.98,3.98,3.98,3.98,Foil
+[353],Battletide Alchemist,Morningtide,4,2.49,1.47,0.6,1.51,Normal
+[354],Burrenton Bombardier,Morningtide,1,5.75,5.75,5.75,5.75,Normal
+[355],Burrenton Shield-Bearers,Morningtide,2,3.0,3.0,3.0,3.0,Normal
+[356],Char,15th Anniversary,2,2.48,2.48,2.48,2.48,Foil
+[357],"Kamahl, Pit Fighter",15th Anniversary,1,19.95,19.95,19.95,19.95,Normal
+[357],"Kamahl, Pit Fighter",15th Anniversary,2,1.23,1.23,1.23,1.23,Foil
+[358],Apothecary Initiate,Shadowmoor,1,5.0,5.0,5.0,5.0,Normal
+[359],Armored Ascension,Shadowmoor,3,1.77,1.48,1.48,1.58,Foil
+[359],Armored Ascension,Shadowmoor,2,0.99,0.69,0.38,0.69,Normal
+[360],Ballynock Cohort,Shadowmoor,1,2.0,2.0,2.0,2.0,Normal
+[361],Barrenton Medic,Shadowmoor,1,4.5,4.5,4.5,4.5,Normal
+[363],Treetop Village,Summer of Magic,2,5.93,5.9,5.88,5.9,Foil
+[363],Treetop Village,Summer of Magic,1,4.07,4.07,4.07,4.07,Normal
+[364],Archon of Justice,Eventide,1,2.22,2.22,2.22,2.22,Foil
+[364],Archon of Justice,Eventide,4,1.75,0.84,0.25,0.92,Normal
+[367],Endless Horizons,Eventide,4,8.38,7.33,5.5,7.13,Normal
+[369],Bogardan Hellkite,From the Vault: Dragons,1,4.38,4.38,4.38,4.38,Foil
+[370],Draco,From the Vault: Dragons,1,8.42,8.42,8.42,8.42,Foil
+[371],Dragon Whelp,From the Vault: Dragons,2,1.0,0.97,0.93,0.97,Foil
+[380],Akrasan Squire,Shards of Alara,3,0.46,0.42,0.4,0.43,Normal
+[382],Angelic Benediction,Shards of Alara,1,1.64,1.64,1.64,1.64,Foil
+[382],Angelic Benediction,Shards of Alara,1,0.37,0.37,0.37,0.37,Normal
+[383],Angelsong,Shards of Alara,2,1.0,0.8,0.6,0.8,Foil
+[383],Angelsong,Shards of Alara,2,0.42,0.34,0.25,0.34,Normal
+[384],Jace Beleren,Duel Decks: Jace vs. Chandra,5,8.98,8.5,7.5,8.47,Foil
+[385],Martyr of Frost,Duel Decks: Jace vs. Chandra,1,0.4,0.4,0.4,0.4,Normal
+[386],Fathom Seer,Duel Decks: Jace vs. Chandra,1,0.4,0.4,0.4,0.4,Normal
+[388],Aerie Mystics,Conflux,1,0.4,0.4,0.4,0.4,Foil
+[388],Aerie Mystics,Conflux,1,0.25,0.25,0.25,0.25,Normal
+[389],Asha's Favor,Conflux,2,0.52,0.47,0.42,0.47,Normal
+[390],Aven Squire,Conflux,2,1.98,1.94,1.89,1.94,Foil
+[390],Aven Squire,Conflux,1,0.25,0.25,0.25,0.25,Normal
+[391],Aven Trailblazer,Conflux,1,0.4,0.4,0.4,0.4,Foil
+[393],Icatian Priest,Duel Decks: Divine vs. Demonic,1,0.4,0.4,0.4,0.4,Normal
+[394],Angelic Page,Duel Decks: Divine vs. Demonic,1,0.4,0.4,0.4,0.4,Normal
+[396],Ardent Plea,Alara Reborn,12,2.88,1.31,0.99,1.54,Normal
+[396],Ardent Plea,Alara Reborn,3,4.99,4.49,4.21,4.56,Foil
+[397],Aven Mimeomancer,Alara Reborn,4,1.95,0.73,0.25,0.92,Normal
+[398],Ethercaste Knight,Alara Reborn,1,2.48,2.48,2.48,2.48,Foil
+[398],Ethercaste Knight,Alara Reborn,1,0.25,0.25,0.25,0.25,Normal
+[399],Ethersworn Shieldmage,Alara Reborn,1,2.48,2.48,2.48,2.48,Foil
+[399],Ethersworn Shieldmage,Alara Reborn,1,0.25,0.25,0.25,0.25,Normal
+[400],Ajani Goldmane,2010 Core Set,1,18.04,18.04,18.04,18.04,Foil
+[400],Ajani Goldmane,2010 Core Set,1,11.54,11.54,11.54,11.54,Normal
+[400],Ajani Goldmane,Magic 2010,11,14.0,9.49,8.25,10.03,Normal
+[400],Ajani Goldmane,Magic 2010,3,18.04,14.43,8.61,13.69,Foil
+[400],Ajani Goldmane,Magic 2010 (M10),3,14.0,9.49,8.25,10.58,Normal
+[400],Ajani Goldmane,Magic 2010 (M10),2,14.43,11.52,8.61,11.52,Foil
+[401],Angel's Mercy,Magic 2010,2,0.25,0.25,0.25,0.25,Normal
+[401],Angel's Mercy,Magic 2010,1,1.0,1.0,1.0,1.0,Foil
+[401],Angel's Mercy,Magic 2010 (M10),1,0.25,0.25,0.25,0.25,Normal
+[401],Angel's Mercy,Magic 2010 (M10),1,1.0,1.0,1.0,1.0,Foil
+[402],Armored Ascension,Magic 2010,1,0.39,0.39,0.39,0.39,Normal
+[402],Armored Ascension,Magic 2010 (M10),1,0.39,0.39,0.39,0.39,Normal
+[403],Baneslayer Angel,2010 Core Set,1,18.04,18.04,18.04,18.04,Foil
+[403],Baneslayer Angel,2010 Core Set,2,8.69,8.09,7.49,8.09,Normal
+[403],Baneslayer Angel,Magic 2010,4,34.93,22.04,18.04,24.26,Foil
+[403],Baneslayer Angel,Magic 2010,17,11.79,8.69,5.43,8.84,Normal
+[403],Baneslayer Angel,Magic 2010 (M10),1,34.93,34.93,34.93,34.93,Foil
+[403],Baneslayer Angel,Magic 2010 (M10),2,10.93,9.21,7.49,9.21,Normal
+[404],Balance,From the Vault: Exiled,6,8.42,7.07,5.42,7.0,Foil
+[405],Berserk,From the Vault: Exiled,6,85.59,37.23,24.95,48.3,Foil
+[406],Channel,From the Vault: Exiled,3,8.25,8.04,7.83,8.04,Foil
+[407],Gifts Ungiven,From the Vault: Exiled,5,15.09,12.58,7.99,12.19,Foil
+[408],Academy at Tolaria West,Planechase,2,4.75,4.61,4.47,4.61,Normal
+[409],Akroma's Vengeance,Planechase,1,1.05,1.05,1.05,1.05,Normal
+[410],The Aether Flues,Planechase,2,5.22,5.06,4.91,5.06,Normal
+[416],Armament Master,Zendikar,6,1459.0,1.24,0.73,244.22,Foil
+[416],Armament Master,Zendikar,4,1.45,0.65,0.25,0.75,Normal
+[419],Brave the Elements,Zendikar,1,2.23,2.23,2.23,2.23,Foil
+[419],Brave the Elements,Zendikar,4,2.49,0.5,0.25,0.94,Normal
+[420],Garruk Wildspeaker,Duel Decks: Garruk vs. Liliana,2,5.39,3.32,1.25,3.32,Foil
+[421],Basking Rootwalla,Duel Decks: Garruk vs. Liliana,1,0.4,0.4,0.4,0.4,Normal
+[422],Albino Troll,Duel Decks: Garruk vs. Liliana,1,0.4,0.4,0.4,0.4,Normal
+[424],Metallic Sliver,PDS: Slivers,2,1.35,1.35,1.35,1.35,Foil
+[424],Metallic Sliver,Premium Deck Series: Slivers,2,2.34,2.17,1.99,2.17,Foil
+[425],Virulent Sliver,PDS: Slivers,1,2.23,2.23,2.23,2.23,Foil
+[426],Amoeboid Changeling,PDS: Slivers,3,2.12,1.73,1.73,1.86,Foil
+[427],Winged Sliver,PDS: Slivers,2,2.49,2.49,2.49,2.49,Foil
+[427],Winged Sliver,Premium Deck Series: Slivers,1,2.04,2.04,2.04,2.04,Foil
+[428],Admonition Angel,Worldwake,8,7.95,5.97,4.93,5.99,Normal
+[428],Admonition Angel,Worldwake,2,13.79,9.29,4.8,9.29,Foil
+[429],Apex Hawks,Worldwake,1,1.49,1.49,1.49,1.49,Foil
+[430],Archon of Redemption,Worldwake,3,1.57,1.0,0.6,1.06,Foil
+[430],Archon of Redemption,Worldwake,2,1.24,0.74,0.25,0.74,Normal
+[431],Battle Hurda,Worldwake,1,0.31,0.31,0.31,0.31,Normal
+[431],Battle Hurda,Worldwake,2,0.99,0.99,0.99,0.99,Foil
+[436],All Is Dust,Rise of the Eldrazi,6,70.0,24.46,10.0,29.8,Normal
+[436],All Is Dust,Rise of the Eldrazi,2,44.99,41.24,37.49,41.24,Foil
+[437],Artisan of Kozilek,Rise of the Eldrazi,8,3.0,0.63,0.53,1.19,Normal
+[438],Eldrazi Conscription,Rise of the Eldrazi,1,29.99,29.99,29.99,29.99,Foil
+[439],"Emrakul, the Aeons Torn",Rise of the Eldrazi,10,187.99,44.75,31.99,68.98,Normal
+[444],All in Good Time,Archenemy,1,15.99,15.99,15.99,15.99,Normal
+[448],Ajani Goldmane,2011 Core Set,2,10.54,9.91,9.29,9.91,Normal
+[448],Ajani Goldmane,Magic 2011,14,16.99,9.46,6.79,10.02,Normal
+[448],Ajani Goldmane,Magic 2011,4,26.94,14.74,13.49,17.48,Foil
+[448],Ajani Goldmane,Magic 2011 (M11),3,16.99,10.74,8.0,11.91,Normal
+[448],Ajani Goldmane,Magic 2011 (M11),2,26.94,20.46,13.99,20.46,Foil
+[449],Ajani's Mantra,Magic 2011,1,2.98,2.98,2.98,2.98,Foil
+[449],Ajani's Mantra,Magic 2011,1,1.87,1.87,1.87,1.87,Normal
+[449],Ajani's Mantra,Magic 2011 (M11),1,2.98,2.98,2.98,2.98,Foil
+[449],Ajani's Mantra,Magic 2011 (M11),1,1.87,1.87,1.87,1.87,Normal
+[450],Ajani's Pridemate,2011 Core Set,3,1.38,0.4,0.4,0.72,Normal
+[450],Ajani's Pridemate,Magic 2011,4,5.46,3.89,1.49,3.68,Foil
+[450],Ajani's Pridemate,Magic 2011,7,1.38,0.73,0.4,0.8,Normal
+[450],Ajani's Pridemate,Magic 2011 (M11),1,5.46,5.46,5.46,5.46,Foil
+[450],Ajani's Pridemate,Magic 2011 (M11),4,1.24,0.57,0.4,0.69,Normal
+[451],Angelic Arbiter,Magic 2011,7,2.41,1.31,1.0,1.55,Normal
+[451],Angelic Arbiter,Magic 2011,1,2.01,2.01,2.01,2.01,Foil
+[451],Angelic Arbiter,Magic 2011 (M11),2,1.31,1.31,1.31,1.31,Normal
+[452],Aether Vial,From the Vault: Relics,1,49.99,49.99,49.99,49.99,Foil
+[453],Black Vise,From the Vault: Relics,8,9.0,4.46,4.0,5.49,Foil
+[454],Isochron Scepter,From the Vault: Relics,1,7.98,7.98,7.98,7.98,Foil
+[455],Ivory Tower,From the Vault: Relics,2,17.68,11.05,4.42,11.05,Foil
+[456],"Elspeth, Knight-Errant",Duel Decks: Elspeth vs. Tezzeret,1,25.88,25.88,25.88,25.88,Normal
+[460],Abuna Acolyte,Scars of Mirrodin,1,1.99,1.99,1.99,1.99,Foil
+[461],Arrest,Scars of Mirrodin,4,0.35,0.32,0.25,0.31,Normal
+[462],Auriok Edgewright,Scars of Mirrodin,3,0.35,0.25,0.25,0.28,Normal
+[463],Auriok Sunchaser,Scars of Mirrodin,4,0.35,0.29,0.25,0.29,Normal
+[],Grim Lavamancer,PDS: Fire and Lightning,1,5.25,5.25,5.25,5.25,Foil
+[],Jackal Pup,PDS: Fire and Lightning,2,1.0,0.84,0.68,0.84,Foil
+[],Mogg Fanatic,PDS: Fire and Lightning,1,0.48,0.48,0.48,0.48,Foil
+[],Spark Elemental,PDS: Fire and Lightning,2,3.45,2.23,1.0,2.23,Foil
+[472],Accorder Paladin,Mirrodin Besieged,3,0.46,0.43,0.25,0.38,Normal
+[473],Ardent Recruit,Mirrodin Besieged,1,0.99,0.99,0.99,0.99,Foil
+[480],Karn Liberated,New Phyrexia,3,649.99,145.05,72.5,289.18,Foil
+[480],Karn Liberated,New Phyrexia,4,100.0,73.02,52.0,74.51,Normal
+[481],Apostle's Blessing,New Phyrexia,4,5.99,3.98,0.99,3.74,Foil
+[481],Apostle's Blessing,New Phyrexia,6,1.38,0.69,0.51,0.78,Normal
+[483],Blade Splicer,New Phyrexia,8,3.99,2.47,1.59,2.52,Normal
+[483],Blade Splicer,New Phyrexia,2,3.38,2.19,0.99,2.19,Foil
+[484],Artisan of Kozilek,Commander,7,2.36,0.99,0.61,1.15,Normal
+[485],Afterlife,Commander,2,0.37,0.37,0.37,0.37,Normal
+[486],Akroma's Vengeance,Commander,5,2.25,1.63,0.5,1.5,Normal
+[487],Alliance of Arms,Commander,6,3.81,2.54,2.18,2.78,Normal
+[488],Aegis Angel,2012 Core Set,2,1.54,0.97,0.4,0.97,Normal
+[488],Aegis Angel,Magic 2012,9,1.54,0.81,0.4,0.8,Normal
+[488],Aegis Angel,Magic 2012 (M12),4,1.0,0.63,0.4,0.66,Normal
+[489],Alabaster Mage,Magic 2012,3,0.99,0.25,0.25,0.5,Normal
+[489],Alabaster Mage,Magic 2012 (M12),2,0.99,0.62,0.25,0.62,Normal
+[490],Angelic Destiny,2012 Core Set,1,9.14,9.14,9.14,9.14,Normal
+[490],Angelic Destiny,Magic 2012,2,24.99,24.36,23.74,24.36,Foil
+[490],Angelic Destiny,Magic 2012,6,9.64,8.86,5.65,8.17,Normal
+[490],Angelic Destiny,Magic 2012 (M12),1,24.99,24.99,24.99,24.99,Foil
+[490],Angelic Destiny,Magic 2012 (M12),1,8.73,8.73,8.73,8.73,Normal
+[491],Angel's Mercy,2012 Core Set,1,1.24,1.24,1.24,1.24,Normal
+[491],Angel's Mercy,Magic 2012,5,1.24,0.33,0.25,0.52,Normal
+[491],Angel's Mercy,Magic 2012 (M12),2,0.51,0.38,0.25,0.38,Normal
+[492],"Cao Cao, Lord of Wei",From the Vault: Legends,3,13.68,4.99,3.42,7.36,Foil
+[493],Captain Sisay,From the Vault: Legends,5,40.0,30.35,13.5,27.81,Foil
+[494],"Doran, the Siege Tower",From the Vault: Legends,1,11.35,11.35,11.35,11.35,Foil
+[495],"Kiki-Jiki, Mirror Breaker",From the Vault: Legends,1,8.99,8.99,8.99,8.99,Foil
+[496],Ajani Vengeant,Duel Decks: Ajani vs. Nicol Bolas,3,31.92,8.16,7.98,16.02,Foil
+[497],Kird Ape,Duel Decks: Ajani vs. Nicol Bolas,3,2.14,2.02,1.89,2.02,Normal
+[499],Wild Nacatl,Duel Decks: Ajani vs. Nicol Bolas,6,7.49,3.25,1.87,3.73,Normal
+[501],Angel of Flight Alabaster,Innistrad,4,2.95,1.43,0.75,1.64,Foil
+[501],Angel of Flight Alabaster,Innistrad,6,0.75,0.4,0.25,0.45,Normal
+[502],Angelic Overseer,Innistrad,10,7.25,2.37,1.5,3.09,Normal
+[502],Angelic Overseer,Innistrad,2,7.57,7.33,7.08,7.33,Foil
+[504],Putrid Imp,PDS: Graveborn,3,3.0,1.0,0.73,1.58,Foil
+[504],Putrid Imp,Premium Deck Series: Graveborn,1,1.67,1.67,1.67,1.67,Normal
+[505],Hidden Horror,PDS: Graveborn,2,1.4,0.94,0.48,0.94,Foil
+[506],Faceless Butcher,Premium Deck Series: Graveborn,2,2.42,1.71,1.0,1.71,Foil
+[507],Twisted Abomination,Premium Deck Series: Graveborn,1,2.25,2.25,2.25,2.25,Foil
+[508],Archangel's Light,Dark Ascension,7,1.88,1.0,0.48,1.11,Normal
+[510],Break of Day,Dark Ascension,1,0.25,0.25,0.25,0.25,Normal
+[511],Burden of Guilt,Dark Ascension,1,1.93,1.93,1.93,1.93,Foil
+[511],Burden of Guilt,Dark Ascension,1,0.25,0.25,0.25,0.25,Normal
+[512],"Venser, the Sojourner",Duel Decks: Venser vs. Koth,3,13.88,11.43,10.79,12.03,Normal
+[512],"Venser, the Sojourner",Duel Decks: Venser vs. Koth,3,12.5,12.0,9.5,11.33,Foil
+[516],Angel of Glory's Rise,Avacyn Restored,1,0.35,0.35,0.35,0.35,Normal
+[517],Angel of Jubilation,Avacyn Restored,6,4.48,3.65,2.98,3.6,Normal
+[517],Angel of Jubilation,Avacyn Restored,1,9.0,9.0,9.0,9.0,Foil
+[518],Angel's Mercy,Avacyn Restored,2,0.35,0.3,0.25,0.3,Normal
+[519],Angelic Wall,Avacyn Restored,1,0.25,0.25,0.25,0.25,Normal
+[521],Armored Griffin,Planechase 2012,1,0.4,0.4,0.4,0.4,Normal
+[521],Armored Griffin,Planechase 2012 Edition,1,0.4,0.4,0.4,0.4,Normal
+[524],"Ajani, Caller of the Pride",2013 Core Set,4,6.49,5.7,3.0,5.22,Normal
+[524],"Ajani, Caller of the Pride",2013 Core Set,1,4.99,4.99,4.99,4.99,Foil
+[524],"Ajani, Caller of the Pride",Magic 2013,9,7.99,6.15,3.0,6.0,Normal
+[524],"Ajani, Caller of the Pride",Magic 2013,5,13.99,11.99,4.99,10.53,Foil
+[524],"Ajani, Caller of the Pride",Magic 2013 (M13),4,6.87,5.94,3.0,5.44,Normal
+[524],"Ajani, Caller of the Pride",Magic 2013 (M13),1,9.21,9.21,9.21,9.21,Foil
+[525],Ajani's Sunstriker,Magic 2013,1,0.25,0.25,0.25,0.25,Normal
+[525],Ajani's Sunstriker,Magic 2013 (M13),1,0.25,0.25,0.25,0.25,Normal
+[526],Angel's Mercy,Magic 2013,4,0.38,0.25,0.25,0.28,Normal
+[526],Angel's Mercy,Magic 2013 (M13),3,0.38,0.25,0.25,0.29,Normal
+[527],Angelic Benediction,Magic 2013,2,1.94,1.94,1.93,1.94,Foil
+[527],Angelic Benediction,Magic 2013,5,0.38,0.25,0.25,0.3,Normal
+[527],Angelic Benediction,Magic 2013 (M13),2,1.94,1.94,1.93,1.94,Foil
+[527],Angelic Benediction,Magic 2013 (M13),3,0.38,0.25,0.25,0.29,Normal
+[528],Ancient Tomb,From the Vault: Realms,1,34.0,34.0,34.0,34.0,Foil
+[529],"Boseiju, Who Shelters All",From the Vault: Realms,2,17.35,13.17,8.99,13.17,Foil
+[530],Cephalid Coliseum,From the Vault: Realms,1,4.75,4.75,4.75,4.75,Foil
+[531],Desert,From the Vault: Realms,2,2.98,2.98,2.98,2.98,Foil
+[532],"Niv-Mizzet, the Firemind",Duel Decks: Izzet vs. Golgari,1,1.99,1.99,1.99,1.99,Foil
+[533],Kiln Fiend,Duel Decks: Izzet vs. Golgari,4,2.38,2.16,0.72,1.85,Normal
+[536],Angel of Serenity,Return to Ravnica,2,11.99,10.98,9.98,10.98,Foil
+[536],Angel of Serenity,Return to Ravnica,7,1.98,1.1,0.99,1.29,Normal
+[537],Armory Guard,Return to Ravnica,1,1.99,1.99,1.99,1.99,Foil
+[537],Armory Guard,Return to Ravnica,2,0.25,0.25,0.25,0.25,Normal
+[538],Arrest,Return to Ravnica,4,0.99,0.3,0.25,0.46,Normal
+[539],Avenging Arrow,Return to Ravnica,4,0.7,0.25,0.25,0.36,Normal
+[541],Command Tower,Commander's Arsenal,1,64.99,64.99,64.99,64.99,Foil
+[542],Decree of Pain,Commander's Arsenal,1,9.99,9.99,9.99,9.99,Foil
+[542],Decree of Pain,Commander's Arsenal,1,9.92,9.92,9.92,9.92,Normal
+[543],Desertion,Commander's Arsenal,1,6.62,6.62,6.62,6.62,Foil
+[543],Desertion,Commander's Arsenal,2,5.49,5.2,4.91,5.2,Normal
+[544],Aerial Maneuver,Gatecrash,1,1.98,1.98,1.98,1.98,Foil
+[545],Angelic Edict,Gatecrash,1,0.25,0.25,0.25,0.25,Normal
+[546],Angelic Skirmisher,Gatecrash,7,1.8,1.69,1.07,1.53,Normal
+[548],"Sorin, Lord of Innistrad",Duel Decks: Sorin vs. Tibalt,1,13.0,13.0,13.0,13.0,Foil
+[548],"Sorin, Lord of Innistrad",Duel Decks: Sorin vs. Tibalt,1,5.0,5.0,5.0,5.0,Normal
+[551],Wall of Omens,Duel Decks: Sorin vs. Tibalt,2,3.88,3.73,3.58,3.73,Normal
+[554],Boros Mastiff,Dragon's Maze,1,1.49,1.49,1.49,1.49,Foil
+[555],Haazda Snare Squad,Dragon's Maze,1,0.99,0.99,0.99,0.99,Foil
+[556],Lyev Decree,Dragon's Maze,1,0.25,0.25,0.25,0.25,Normal
+[557],Maze Sentinel,Dragon's Maze,1,1.0,1.0,1.0,1.0,Foil
+[558],Adarkar Valkyrie,Modern Masters,3,6.5,5.98,5.38,5.95,Foil
+[558],Adarkar Valkyrie,Modern Masters,4,1.64,1.35,0.99,1.33,Normal
+[559],Amrou Scout,Modern Masters,1,0.25,0.25,0.25,0.25,Normal
+[560],Amrou Seekers,Modern Masters,1,0.25,0.25,0.25,0.25,Normal
+[561],Angel's Grace,Modern Masters,3,16.03,14.99,14.39,15.14,Foil
+[561],Angel's Grace,Modern Masters,4,7.88,6.21,5.69,6.5,Normal
+[562],"Ajani, Caller of the Pride",2014 Core Set,1,10.04,10.04,10.04,10.04,Normal
+[562],"Ajani, Caller of the Pride",Magic 2014,5,10.04,5.99,5.39,6.84,Normal
+[562],"Ajani, Caller of the Pride",Magic 2014,3,10.93,9.95,9.17,10.02,Foil
+[562],"Ajani, Caller of the Pride",Magic 2014 (M14),1,7.0,7.0,7.0,7.0,Normal
+[562],"Ajani, Caller of the Pride",Magic 2014 (M14),2,10.93,10.05,9.17,10.05,Foil
+[562],"Ajani, Caller of the Pride",Magic 2014 Core Set,1,10.04,10.04,10.04,10.04,Normal
+[563],Ajani's Chosen,2014 Core Set,3,3.99,0.4,0.4,1.6,Normal
+[563],Ajani's Chosen,Magic 2014,7,1.64,0.65,0.53,0.95,Foil
+[563],Ajani's Chosen,Magic 2014,9,3.99,0.99,0.35,1.07,Normal
+[563],Ajani's Chosen,Magic 2014 (M14),3,1.64,1.64,0.99,1.42,Foil
+[563],Ajani's Chosen,Magic 2014 (M14),3,0.4,0.4,0.35,0.38,Normal
+[563],Ajani's Chosen,Magic 2014 Core Set,3,3.99,0.4,0.4,1.6,Normal
+[564],Angelic Accord,2014 Core Set,1,0.5,0.5,0.5,0.5,Foil
+[564],Angelic Accord,2014 Core Set,2,0.4,0.4,0.4,0.4,Normal
+[564],Angelic Accord,Magic 2014,3,2.7,2.38,0.5,1.86,Foil
+[564],Angelic Accord,Magic 2014,5,0.51,0.4,0.36,0.43,Normal
+[564],Angelic Accord,Magic 2014 (M14),2,2.7,1.6,0.5,1.6,Foil
+[564],Angelic Accord,Magic 2014 (M14),3,0.4,0.4,0.36,0.39,Normal
+[564],Angelic Accord,Magic 2014 Core Set,1,0.5,0.5,0.5,0.5,Foil
+[564],Angelic Accord,Magic 2014 Core Set,2,0.4,0.4,0.4,0.4,Normal
+[565],Angelic Wall,2014 Core Set,2,0.4,0.36,0.33,0.36,Normal
+[565],Angelic Wall,Magic 2014,6,0.4,0.29,0.25,0.31,Normal
+[565],Angelic Wall,Magic 2014 (M14),4,0.4,0.31,0.25,0.32,Normal
+[565],Angelic Wall,Magic 2014 Core Set,2,0.4,0.36,0.33,0.36,Normal
+[566],Dark Ritual,From the Vault: Twenty,4,25.52,6.5,5.88,11.1,Foil
+[567],Swords to Plowshares,From the Vault: Twenty,3,17.92,5.88,4.75,9.52,Foil
+[568],Hymn to Tourach,From the Vault: Twenty,4,17.68,4.05,3.0,7.2,Foil
+[570],Sun Titan,Duel Decks: Heroes vs. Monsters,3,4.94,4.65,2.5,4.03,Foil
+[572],Figure of Destiny,Duel Decks: Heroes vs. Monsters,3,2.41,2.14,1.62,2.06,Normal
+[574],Battlewise Valor,Theros,1,0.48,0.48,0.48,0.48,Normal
+[574],Battlewise Valor,Theros,1,0.99,0.99,0.99,0.99,Foil
+[575],Cavalry Pegasus,Theros,1,0.4,0.4,0.4,0.4,Foil
+[575],Cavalry Pegasus,Theros,1,0.25,0.25,0.25,0.25,Normal
+[576],Celestial Archon,Theros,9,16.99,0.43,0.25,2.41,Normal
+[576],Celestial Archon,Theros,3,1.76,1.0,1.0,1.25,Foil
+[577],Chained to the Rocks,Theros,5,2.59,1.48,0.99,1.69,Foil
+[577],Chained to the Rocks,Theros,5,1.96,0.57,0.25,0.93,Normal
+[578],Act of Authority,Commander 2013,1,0.5,0.5,0.5,0.5,Normal
+[581],Angel of Finality,Commander 2013,9,4.49,3.48,1.94,3.31,Normal
+[581],Angel of Finality,Commander 2013 Edition,1,2.49,2.49,2.49,2.49,Normal
+[582],Acolyte's Reward,Born of the Gods,2,1.0,0.75,0.5,0.75,Foil
+[582],Acolyte's Reward,Born of the Gods,1,0.25,0.25,0.25,0.25,Normal
+[583],Akroan Phalanx,Born of the Gods,3,0.5,0.5,0.41,0.47,Foil
+[583],Akroan Phalanx,Born of the Gods,1,0.25,0.25,0.25,0.25,Normal
+[584],Akroan Skyguard,Born of the Gods,3,0.7,0.37,0.25,0.44,Normal
+[584],Akroan Skyguard,Born of the Gods,2,1.99,1.5,1.0,1.5,Foil
+[585],Archetype of Courage,Born of the Gods,2,4.69,4.32,3.95,4.32,Foil
+[585],Archetype of Courage,Born of the Gods,7,2.82,1.84,0.5,1.55,Normal
+[586],"Jace, Architect of Thought",Duel Decks: Jace vs. Vraska,1,2.49,2.49,2.49,2.49,Foil
+[588],Jace's Phantasm,Duel Decks: Jace vs. Vraska,2,1.84,1.81,1.78,1.81,Normal
+[590],Aegis of the Gods,Journey into Nyx,6,3.63,2.0,1.25,2.3,Normal
+[591],Ajani's Presence,Journey into Nyx,5,0.7,0.4,0.25,0.42,Normal
+[591],Ajani's Presence,Journey into Nyx,1,2.0,2.0,2.0,2.0,Foil
+[592],Akroan Mastiff,Journey into Nyx,2,0.7,0.47,0.25,0.47,Normal
+[592],Akroan Mastiff,Journey into Nyx,1,1.19,1.19,1.19,1.19,Foil
+[593],Armament of Nyx,Journey into Nyx,1,1.19,1.19,1.19,1.19,Foil
+[593],Armament of Nyx,Journey into Nyx,1,0.25,0.25,0.25,0.25,Normal
+[594],Soul Warden,Modern Event Deck,2,0.9,0.8,0.71,0.8,Normal
+[594],Soul Warden,Modern Event Deck 2014,1,0.9,0.9,0.9,0.9,Normal
+[595],Tidehollow Sculler,Modern Event Deck,2,1.37,1.19,1.0,1.19,Normal
+[595],Tidehollow Sculler,Modern Event Deck 2014,1,1.0,1.0,1.0,1.0,Normal
+[596],Path to Exile,Modern Event Deck,7,8.98,7.71,6.71,7.79,Normal
+[596],Path to Exile,Modern Event Deck 2014,1,7.97,7.97,7.97,7.97,Normal
+[597],Inquisition of Kozilek,Modern Event Deck,4,5.99,5.08,4.22,5.09,Normal
+[599],Backup Plan,Conspiracy,3,10.93,6.99,5.5,7.81,Foil
+[599],Backup Plan,Conspiracy,2,1.0,0.67,0.33,0.67,Normal
+[600],Brago's Favor,Conspiracy,2,1.95,1.48,1.0,1.48,Foil
+[600],Brago's Favor,Conspiracy,1,0.25,0.25,0.25,0.25,Normal
+[601],Double Stroke,Conspiracy,4,2.91,1.71,1.34,1.92,Foil
+[606],Ajani Steadfast,2015 Core Set,2,19.99,16.99,13.99,16.99,Foil
+[606],Ajani Steadfast,2015 Core Set,3,11.99,10.79,9.99,10.92,Normal
+[606],Ajani Steadfast,Magic 2015,7,23.43,19.99,12.99,18.15,Foil
+[606],Ajani Steadfast,Magic 2015,15,19.99,11.99,9.3,12.43,Normal
+[606],Ajani Steadfast,Magic 2015 (M15),4,22.49,19.99,12.99,18.86,Foil
+[606],Ajani Steadfast,Magic 2015 (M15),2,12.48,12.23,11.99,12.23,Normal
+[606],Ajani Steadfast,Magic 2015 Core Set,2,19.99,16.99,13.99,16.99,Foil
+[606],Ajani Steadfast,Magic 2015 Core Set,3,11.99,10.79,9.99,10.92,Normal
+[607],Ajani's Pridemate,2015 Core Set,5,1.54,0.4,0.4,0.79,Normal
+[607],Ajani's Pridemate,Magic 2015,2,3.81,2.72,1.62,2.72,Foil
+[607],Ajani's Pridemate,Magic 2015,8,1.54,0.58,0.4,0.77,Normal
+[607],Ajani's Pridemate,Magic 2015 (M15),1,1.62,1.62,1.62,1.62,Foil
+[607],Ajani's Pridemate,Magic 2015 (M15),5,1.24,0.4,0.4,0.69,Normal
+[607],Ajani's Pridemate,Magic 2015 Core Set,5,1.54,0.4,0.4,0.79,Normal
+[608],"Avacyn, Guardian Angel",2015 Core Set,2,1.0,1.0,1.0,1.0,Normal
+[608],"Avacyn, Guardian Angel",Magic 2015,3,2.46,1.0,1.0,1.48,Normal
+[608],"Avacyn, Guardian Angel",Magic 2015 (M15),2,1.0,1.0,1.0,1.0,Normal
+[608],"Avacyn, Guardian Angel",Magic 2015 Core Set,2,1.0,1.0,1.0,1.0,Normal
+[609],Battle Mastery,2015 Core Set,2,1.2,0.8,0.4,0.8,Foil
+[609],Battle Mastery,2015 Core Set,2,1.2,1.1,1.0,1.1,Normal
+[609],Battle Mastery,Magic 2015,2,1.2,0.8,0.4,0.8,Foil
+[609],Battle Mastery,Magic 2015,5,1.29,1.0,0.25,0.82,Normal
+[609],Battle Mastery,Magic 2015 (M15),2,1.2,0.8,0.4,0.8,Foil
+[609],Battle Mastery,Magic 2015 (M15),3,1.2,0.38,0.25,0.61,Normal
+[609],Battle Mastery,Magic 2015 Core Set,2,1.2,0.8,0.4,0.8,Foil
+[609],Battle Mastery,Magic 2015 Core Set,2,1.2,1.1,1.0,1.1,Normal
+[610],Armageddon,From the Vault: Annihilation,4,8.99,6.93,5.39,7.06,Foil
+[611],Burning of Xinye,From the Vault: Annihilation,3,9.68,2.42,1.99,4.7,Foil
+[612],Cataclysm,From the Vault: Annihilation,3,4.75,4.0,2.74,3.83,Foil
+[613],Child of Alara,From the Vault: Annihilation,1,2.99,2.99,2.99,2.99,Foil
+[614],Zurgo Helmsmasher,Duel Decks: Speed vs. Cunning,4,5.68,1.33,1.25,2.4,Foil
+[615],Frenzied Goblin,Duel Decks: Speed vs. Cunning,1,2.95,2.95,2.95,2.95,Normal
+[616],Infantry Veteran,Duel Decks: Speed vs. Cunning,1,0.48,0.48,0.48,0.48,Normal
+[618],Abzan Battle Priest,Khans of Tarkir,3,0.4,0.4,0.35,0.38,Normal
+[618],Abzan Battle Priest,Khans of Tarkir,1,0.4,0.4,0.4,0.4,Foil
+[619],Abzan Falconer,Khans of Tarkir,4,0.48,0.4,0.18,0.36,Normal
+[620],Ainok Bond-Kin,Khans of Tarkir,4,1.88,0.8,0.4,0.97,Foil
+[620],Ainok Bond-Kin,Khans of Tarkir,3,0.4,0.4,0.25,0.35,Normal
+[621],Alabaster Kirin,Khans of Tarkir,2,0.4,0.38,0.36,0.38,Foil
+[621],Alabaster Kirin,Khans of Tarkir,2,0.25,0.25,0.25,0.25,Normal
+[622],Angel of the Dire Hour,Commander 2014,4,6.74,4.93,2.25,4.71,Normal
+[623],Angelic Field Marshal,Commander 2014,4,4.45,0.85,0.7,1.71,Normal
+[625],Comeuppance,Commander 2014,2,2.0,2.0,2.0,2.0,Normal
+[642],"Ugin, the Spirit Dragon",Ugin's Fate promos,2,229.99,177.47,124.95,177.47,Normal
+[643],Mastery of the Unseen,Ugin's Fate promos,2,5.13,4.97,4.82,4.97,Normal
+[644],Smite the Monstrous,Ugin's Fate promos,1,0.99,0.99,0.99,0.99,Normal
+[645],Soul Summons,Ugin's Fate promos,2,0.99,0.99,0.99,0.99,Normal
+[646],"Ugin, the Spirit Dragon",Fate Reforged,13,139.99,33.36,10.12,40.59,Normal
+[646],"Ugin, the Spirit Dragon",Fate Reforged,1,119.4,119.4,119.4,119.4,Foil
+[647],Abzan Advantage,Fate Reforged,1,0.25,0.25,0.25,0.25,Normal
+[647],Abzan Advantage,Fate Reforged,2,1.0,0.99,0.99,0.99,Foil
+[648],Abzan Runemark,Fate Reforged,3,1.0,0.99,0.4,0.8,Foil
+[648],Abzan Runemark,Fate Reforged,1,0.25,0.25,0.25,0.25,Normal
+[649],Abzan Skycaptain,Fate Reforged,3,1.91,1.0,0.4,1.1,Foil
+[649],Abzan Skycaptain,Fate Reforged,1,0.25,0.25,0.25,0.25,Normal
+[650],"Elspeth, Sun's Champion",Duel Decks: Elspeth vs. Kiora,3,14.0,12.88,9.79,12.22,Foil
+[651],Banisher Priest,Duel Decks: Elspeth vs. Kiora,1,0.4,0.4,0.4,0.4,Normal
+[652],Captain of the Watch,Duel Decks: Elspeth vs. Kiora,1,0.4,0.4,0.4,0.4,Normal
+[653],Celestial Flare,Duel Decks: Elspeth vs. Kiora,1,0.4,0.4,0.4,0.4,Normal
+[654],Scion of Ugin,Dragons of Tarkir,3,1.75,1.48,1.48,1.57,Foil
+[654],Scion of Ugin,Dragons of Tarkir,3,1.0,0.73,0.25,0.66,Normal
+[655],"Anafenza, Kin-Tree Spirit",Dragons of Tarkir,2,7.1,6.03,4.95,6.03,Foil
+[655],"Anafenza, Kin-Tree Spirit",Dragons of Tarkir,8,2.13,0.99,0.85,1.31,Normal
+[656],Arashin Foremost,Dragons of Tarkir,3,1.98,1.98,1.47,1.81,Foil
+[656],Arashin Foremost,Dragons of Tarkir,6,1.96,0.79,0.25,0.9,Normal
+[657],Artful Maneuver,Dragons of Tarkir,3,1.0,0.73,0.4,0.71,Foil
+[657],Artful Maneuver,Dragons of Tarkir,1,0.25,0.25,0.25,0.25,Normal
+[662],All Is Dust,Modern Masters 2015,3,29.99,28.0,26.24,28.08,Foil
+[662],All Is Dust,Modern Masters 2015,6,24.88,20.47,8.5,18.72,Normal
+[663],Artisan of Kozilek,Modern Masters 2015,3,0.48,0.47,0.4,0.45,Normal
+[663],Artisan of Kozilek,Modern Masters 2015,1,1.48,1.48,1.48,1.48,Foil
+[664],"Emrakul, the Aeons Torn",Modern Masters 2015,3,59.98,57.54,52.69,56.74,Foil
+[664],"Emrakul, the Aeons Torn",Modern Masters 2015,2,45.0,44.52,44.04,44.52,Normal
+[665],Karn Liberated,Modern Masters 2015,2,65.98,64.48,62.99,64.48,Normal
+[666],Akroan Jailer,Magic Origins,3,0.99,0.4,0.4,0.6,Foil
+[666],Akroan Jailer,Magic Origins,5,1.29,0.25,0.25,0.6,Normal
+[667],Ampryn Tactician,Magic Origins,3,0.99,0.99,0.4,0.79,Foil
+[667],Ampryn Tactician,Magic Origins,5,1.29,0.25,0.25,0.6,Normal
+[668],Anointer of Champions,Magic Origins,9,1.38,0.4,0.21,0.71,Normal
+[668],Anointer of Champions,Magic Origins,1,0.4,0.4,0.4,0.4,Foil
+[669],Archangel of Tithes,Magic Origins,19,10.13,6.5,3.49,6.68,Normal
+[669],Archangel of Tithes,Magic Origins,1,10.49,10.49,10.49,10.49,Foil
+[670],"Akroma, Angel of Fury",From the Vault: Angels,3,16.99,7.0,5.25,9.75,Foil
+[671],"Akroma, Angel of Wrath",From the Vault: Angels,3,12.0,8.99,5.0,8.66,Foil
+[672],Archangel of Strife,From the Vault: Angels,2,2.99,2.19,1.4,2.19,Foil
+[674],Avenger of Zendikar,Duel Decks: Zendikar vs. Eldrazi,2,4.4,4.4,4.4,4.4,Foil
+[675],Affa Guard Hound,Duel Decks: Zendikar vs. Eldrazi,1,0.4,0.4,0.4,0.4,Normal
+[676],Caravan Escort,Duel Decks: Zendikar vs. Eldrazi,1,0.4,0.4,0.4,0.4,Normal
+[677],Kabira Vindicator,Duel Decks: Zendikar vs. Eldrazi,1,0.4,0.4,0.4,0.4,Normal
+[678],Bane of Bala Ged,Battle for Zendikar,1,2.52,2.52,2.52,2.52,Foil
+[678],Bane of Bala Ged,Battle for Zendikar,4,0.47,0.4,0.25,0.38,Normal
+[679],Blight Herder,Battle for Zendikar,6,1.73,1.11,0.65,1.09,Foil
+[679],Blight Herder,Battle for Zendikar,9,1.24,0.4,0.25,0.6,Normal
+[680],Breaker of Armies,Battle for Zendikar,5,0.48,0.4,0.37,0.41,Normal
+[681],Conduit of Ruin,Battle for Zendikar,4,4.07,3.75,1.79,3.34,Foil
+[681],Conduit of Ruin,Battle for Zendikar,8,10.0,1.43,0.78,2.41,Normal
+[682],Prairie Stream,Zendikar Expeditions,1,23.99,23.99,23.99,23.99,Foil
+[683],Sunken Hollow,Zendikar Expeditions,3,29.99,25.99,21.99,25.99,Foil
+[684],Smoldering Marsh,Zendikar Expeditions,1,23.99,23.99,23.99,23.99,Foil
+[685],Cinder Glade,Zendikar Expeditions,1,29.99,29.99,29.99,29.99,Foil
+[686],Bastion Protector,Commander 2015,2,5.99,5.63,5.28,5.63,Normal
+[687],Dawnbreak Reclaimer,Commander 2015,3,0.61,0.45,0.45,0.5,Normal
+[688],Grasp of Fate,Commander 2015,6,8.38,5.87,5.03,6.25,Normal
+[689],Herald of the Host,Commander 2015,1,0.4,0.4,0.4,0.4,Normal
+[690],Deceiver of Form,Oath of the Gatewatch,11,1.13,0.5,0.25,0.57,Normal
+[690],Deceiver of Form,Oath of the Gatewatch,1,1.91,1.91,1.91,1.91,Foil
+[691],Eldrazi Mimic,Oath of the Gatewatch,4,6.13,4.4,3.6,4.63,Foil
+[691],Eldrazi Mimic,Oath of the Gatewatch,8,1.91,1.39,0.84,1.32,Normal
+[692],Endbringer,Oath of the Gatewatch,8,2.0,1.58,1.18,1.59,Normal
+[693],"Kozilek, the Great Distortion",Oath of the Gatewatch,10,10.72,4.5,2.68,5.39,Normal
+[694],Geist of Saint Traft,Duel Decks: Blessed vs. Cursed,1,8.49,8.49,8.49,8.49,Foil
+[695],Bonds of Faith,Duel Decks: Blessed vs. Cursed,1,0.4,0.4,0.4,0.4,Normal
+[696],Cathedral Sanctifier,Duel Decks: Blessed vs. Cursed,1,0.4,0.4,0.4,0.4,Normal
+[698],Aegis Angel,Welcome Deck 2016,4,4.66,1.48,0.45,2.01,Normal
+[700],Serra Angel,Welcome Deck 2016,2,4.66,3.33,2.0,3.33,Normal
+[702],Always Watching,Shadows over Innistrad,13,4.5,1.78,0.85,2.12,Normal
+[702],Always Watching,Shadows over Innistrad,4,7.93,4.32,2.5,4.77,Foil
+[703],Angel of Deliverance,Shadows over Innistrad,2,1.38,1.01,0.65,1.01,Foil
+[703],Angel of Deliverance,Shadows over Innistrad,11,1.29,0.5,0.25,0.66,Normal
+[704],Angelic Purge,Shadows over Innistrad,6,0.4,0.31,0.25,0.32,Normal
+[704],Angelic Purge,Shadows over Innistrad,1,0.4,0.4,0.4,0.4,Foil
+[705],Apothecary Geist,Shadows over Innistrad,2,0.4,0.4,0.4,0.4,Normal
+[705],Apothecary Geist,Shadows over Innistrad,1,0.4,0.4,0.4,0.4,Foil
+[706],Aven Riftwatcher,Eternal Masters,6,3.99,0.38,0.25,0.95,Normal
+[706],Aven Riftwatcher,Eternal Masters,1,1.88,1.88,1.88,1.88,Foil
+[707],Balance,Eternal Masters,4,8.38,8.06,7.99,8.12,Foil
+[707],Balance,Eternal Masters,6,4.99,1.99,1.8,2.54,Normal
+[708],Ballynock Cohort,Eternal Masters,4,1.0,0.44,0.31,0.55,Normal
+[708],Ballynock Cohort,Eternal Masters,1,0.4,0.4,0.4,0.4,Foil
+[709],Benevolent Bodyguard,Eternal Masters,5,1.0,0.4,0.25,0.5,Normal
+[709],Benevolent Bodyguard,Eternal Masters,1,0.4,0.4,0.4,0.4,Foil
+[710],Abundant Maw,Eldritch Moon,6,3.0,0.4,0.36,0.82,Normal
+[710],Abundant Maw,Eldritch Moon,2,0.5,0.47,0.45,0.47,Foil
+[711],Decimator of the Provinces,Eldritch Moon,3,6.91,3.88,1.59,4.13,Foil
+[711],Decimator of the Provinces,Eldritch Moon,11,5.0,1.88,1.0,2.23,Normal
+[712],Distended Mindbender,Eldritch Moon,8,4.98,2.69,1.59,3.2,Foil
+[712],Distended Mindbender,Eldritch Moon,11,3.0,1.19,0.25,1.15,Normal
+[713],Drownyard Behemoth,Eldritch Moon,7,0.75,0.4,0.25,0.47,Normal
+[713],Drownyard Behemoth,Eldritch Moon,2,1.98,1.19,0.4,1.19,Foil
+[714],Beseech the Queen,From the Vault: Lore,2,6.13,5.44,4.75,5.44,Foil
+[715],Cabal Ritual,From the Vault: Lore,4,4.13,3.75,3.25,3.72,Foil
+[716],Conflux,From the Vault: Lore,1,2.0,2.0,2.0,2.0,Foil
+[717],Dark Depths,From the Vault: Lore,3,35.88,34.54,29.99,33.47,Foil
+[718],Adriana's Valor,Conspiracy: Take the Crown,1,0.4,0.4,0.4,0.4,Normal
+[718],Adriana's Valor,Conspiracy: Take the Crown,1,0.4,0.4,0.4,0.4,Foil
+[719],Assemble the Rank and Vile,Conspiracy: Take the Crown,1,0.4,0.4,0.4,0.4,Normal
+[720],Echoing Boon,Conspiracy: Take the Crown,2,0.4,0.38,0.36,0.38,Normal
+[720],Echoing Boon,Conspiracy: Take the Crown,2,0.99,0.69,0.4,0.69,Foil
+[721],Emissary's Ploy,Conspiracy: Take the Crown,4,1.0,0.48,0.25,0.55,Normal
+[721],Emissary's Ploy,Conspiracy: Take the Crown,1,1.48,1.48,1.48,1.48,Foil
+[722],"Nissa, Voice of Zendikar",Duel Decks: Nissa vs. Ob Nixilis,4,13.74,9.12,4.84,9.2,Foil
+[723],Abundance,Duel Decks: Nissa vs. Ob Nixilis,2,0.91,0.66,0.4,0.66,Normal
+[724],Briarhorn,Duel Decks: Nissa vs. Ob Nixilis,1,0.4,0.4,0.4,0.4,Normal
+[725],Citanul Woodreaders,Duel Decks: Nissa vs. Ob Nixilis,1,0.4,0.4,0.4,0.4,Normal
+[726],Acrobatic Maneuver,Kaladesh,2,1.49,0.94,0.4,0.94,Foil
+[726],Acrobatic Maneuver,Kaladesh,3,0.4,0.4,0.25,0.35,Normal
+[727],Aerial Responder,Kaladesh,5,1.17,0.4,0.37,0.57,Normal
+[727],Aerial Responder,Kaladesh,2,1.85,1.17,0.5,1.17,Foil
+[728],Aetherstorm Roc,Kaladesh,4,1.88,1.56,0.65,1.41,Foil
+[728],Aetherstorm Roc,Kaladesh,10,1.5,0.42,0.25,0.62,Normal
+[729],Angel of Invention,Kaladesh,6,24.99,14.96,9.99,16.14,Foil
+[729],Angel of Invention,Kaladesh,19,16.8,8.24,5.55,9.7,Normal
+[732],Noxious Gearhulk,Masterpiece Series: Inventions,1,23.99,23.99,23.99,23.99,Foil
+[732],Noxious Gearhulk,Masterpiece Series: Kaladesh Inventions,1,23.99,23.99,23.99,23.99,Foil
+[734],Duelist's Heritage,Commander 2016,1,6.13,6.13,6.13,6.13,Normal
+[736],Orzhov Advokist,Commander 2016,1,0.4,0.4,0.4,0.4,Normal
+[737],Selfless Squire,Commander 2016,1,8.13,8.13,8.13,8.13,Normal
+[738],Armored Griffin,Planechase Anthology,1,0.4,0.4,0.4,0.4,Normal
+[740],Auramancer,Planechase Anthology,1,0.4,0.4,0.4,0.4,Normal
+[742],Aerial Modification,Aether Revolt,2,1.49,0.94,0.4,0.94,Foil
+[742],Aerial Modification,Aether Revolt,7,0.49,0.37,0.25,0.37,Normal
+[743],Aeronaut Admiral,Aether Revolt,7,1.95,0.4,0.25,0.6,Normal
+[743],Aeronaut Admiral,Aether Revolt,3,1.49,0.49,0.4,0.79,Foil
+[744],Aether Inspector,Aether Revolt,2,0.99,0.69,0.4,0.69,Foil
+[744],Aether Inspector,Aether Revolt,4,0.4,0.38,0.25,0.35,Normal
+[745],Aethergeode Miner,Aether Revolt,8,1.48,0.51,0.25,0.74,Normal
+[745],Aethergeode Miner,Aether Revolt,1,1.38,1.38,1.38,1.38,Foil
+[746],Attended Knight,Modern Masters 2017,2,4.44,2.42,0.4,2.42,Normal
+[747],Banishing Stroke,Modern Masters 2017,2,4.96,2.68,0.4,2.68,Normal
+[747],Banishing Stroke,Modern Masters 2017,1,0.4,0.4,0.4,0.4,Foil
+[748],Blade Splicer,Modern Masters 2017,6,4.96,1.54,0.99,2.01,Normal
+[749],Entreat the Angels,Modern Masters 2017,5,3.99,3.6,1.98,3.22,Normal
+[749],Entreat the Angels,Modern Masters 2017,2,5.69,3.75,1.8,3.75,Foil
+[750],Jhoira of the Ghitu,Duel Decks: Mind vs. Might,1,2.0,2.0,2.0,2.0,Foil
+[752],Deep-Sea Kraken,Duel Decks: Mind vs. Might,2,0.51,0.45,0.4,0.45,Normal
+[753],Mind's Desire,Duel Decks: Mind vs. Might,1,0.4,0.4,0.4,0.4,Normal
+[754],Angel of Sanctions,Amonkhet,18,13.95,2.95,0.4,3.78,Normal
+[754],Angel of Sanctions,Amonkhet,7,6.16,4.99,3.69,5.18,Foil
+[755],Anointed Procession,Amonkhet,13,70.0,14.15,11.74,19.55,Foil
+[755],Anointed Procession,Amonkhet,12,15.99,10.24,6.25,10.5,Normal
+[756],Anointer Priest,Amonkhet,3,3.5,2.55,1.1,2.38,Foil
+[756],Anointer Priest,Amonkhet,11,0.99,0.4,0.25,0.48,Normal

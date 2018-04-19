@@ -1,0 +1,20 @@
+
+Excluded:  Akroma, Angel of Wrath   ['Avatar']
+vanguard cards are not mtg cards (normally)
+
+Excluded:  Budoka Pupil   ['//', 'Ichiga,', 'Who', 'Topples', 'Oaks']
+Card name should be: Budoka Pupil // Ichiga, Who Topples Oaks
+
+
+Excluded:  Char   [...long list]
+=>
+res = ebay(mtg english near mint english Char -Dawn -Soul -Sultai -Across -Victory -Chartooth -War -Ferocious -Reckless -Windborne -Badger -Temur -Monstrosaur -Paladin -Trickery -Simic -Dimir -Righteous -Pyre -a -Warmonger's -Charioteers -Grixis -Charm -Emerald -Ballista -Esper -Crosis's -Griffin -Kindred -Sandstorm -Midnight -Devils -Scab-Clan -Naya)
+
+
+for item in res:
+ if  item title does not contain an of these: -Vision -Troll -Suicidal -Warrior's -Misery -Funeral -Charbelcher -Vigorous -Rakdos -of -Death -Diamond -Rhox -Bant -Sun -Soratami -Dread -Boros -Chariot -Pendant -Dragon -Sapphire -Charge -Cougar -Peddler -Thunderblade -the -Charger -Charmbreaker -Dromar's -Hearth -Izzet -Treva's -Slateback -Cinderhorn -Hope -Fervent -Evolution -Charcoal -Rith's -Mardu -Zephyr -Pegasus -Downhill -Araba -Freyalise's -Azorius -Glorious -Mana-Charged -Jund -Abzan -Charlatan -Vitality -Rhino -Orzhov -Virtuous -Goblin -Charmer -Selesnya -Charging -Piety -Jeskai -Sanctified -Volt -Char-Rumbler -Fever -Khenra -Meletis -Chart -Inspired -Charisma -Darigaaz's -School -Flowstone -Charioteer -Chaos -Wurm -Golgari -Cloud -Piracy -Charnelhoard -Seedling -Ivory -Bandits -Charmed -Ebony -Selvala's -Fury -Valorous -Gruul -Aether -Twiddlestick -Mistral -Hellkite -Course -Dawnbringer -Desperate
+	real result...
+
+
+Excluded:  Erase   ['(Not', 'the', "Urza's", 'Legacy', 'One)']
+=> remove ( and )
